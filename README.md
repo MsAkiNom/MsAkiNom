@@ -1,10 +1,9 @@
 ### I am going to tell you a short story:
-Background story: There are two people A and B.
 
-A: What are you doing this late at night?
-B: I'm coding bro!
-A: But, why at 3 am??
-B: There is no limit for coders. Where there's a will, there's a way!
+A: What are you doing this late at night? <br>
+B: I'm coding bro! <br>
+A: But, why at 3 am?? <br>
+B: There is no limit for coders. Where there's a will, there's a way! <br>
 
 <!--
 **MsAkiNom/MsAkiNom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
