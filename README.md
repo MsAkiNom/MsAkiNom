@@ -1,3 +1,5 @@
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="25%" height="25%"/>
   <div id="badges">
@@ -8,18 +10,12 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
  </div>
- <h2>
-  <strong>
-      Hey there!
-  </strong>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h2>
 </div>
 
 ## 📈 My Stats
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=msakinom&show_icons=true&bg_color=00000000&text_color=3498db">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=msakinom&show_icons=true&theme=highcontrast&bg_color=00000000&text_color=3498db">
   <img src="https://github-readme-stats.vercel.app/api?username=msakinom&count_private=true&show_icons=true&theme=radical&bg_color=00000000&text_color=3498db">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msakinom&langs_count=8&layout=compact&theme=vision-friendly-dark&bg_color=00000000&text_color=3498db">
 </div>
