@@ -29,7 +29,7 @@
 ![Java](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=007396)
 ![Spring](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=Spring&logoColor=6DB33F&color=6DB33F)
 ![Python](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
-![C++](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=C++&logoColor=white&color=3886AB)
+![C++](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=Cpp&logoColor=white&color=3886AB)
 ![PHP](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=PHP&logoColor=white&color=3776AB)
 ![VueJS](https://img.shields.io/badge/Framework-Vue.JS-informational?style=flat&logo=Vue.JS&logoColor=white&color=3AA148)
 ![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GnuBash&logoColor=white&color=4EAA25)
