@@ -19,9 +19,12 @@
 
 ### 📈 My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=msakinom&theme=dark&background=000000&width=49%)](https://git.io/streak-stats) ![AkiNom's GitHub stats](https://github-readme-stats.vercel.app/api?username=msakinom&count_private=true&show_icons=true&theme=radical&width=49%)
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=msakinom&theme=dark&background=000000">
+  <img src="https://github-readme-stats.vercel.app/api?username=msakinom&count_private=true&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msakinom&langs_count=8&layout=compact&theme=vision-friendly-dark">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msakinom&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/msakinom/github-readme-stats)
+</div>
 
 ## ‍💻 Technologies
 
