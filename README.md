@@ -46,4 +46,5 @@
 ![Gitlab](https://img.shields.io/badge/CI/CD-Gitlab-informational?style=flat&logo=Gitlab&logoColor=white&color=FCA121)
 ![Blender](https://img.shields.io/badge/Tool-Blender-informational?style=flat&logo=Blender&logoColor=white&color=F57231)
 ![AutoCAD](https://img.shields.io/badge/Tool-AutoCAD-informational?style=flat&logo=AutoCAD&logoColor=white&color=F53731)
+![AndroidStudio](https://img.shields.io/badge/Tool-AndroidStudio-informational?style=flat&logo=AndroidStudio&logoColor=white&color=44C776)
 
