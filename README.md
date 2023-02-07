@@ -14,11 +14,8 @@
 </h1>
 </div>
 
-### :fire: My Stats :
+### 📈 My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=msakinom&theme=dark&background=000000)](https://git.io/streak-stats) ![AkiNom's GitHub stats](https://github-readme-stats.vercel.app/api?username=msakinom&count_private=true&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msakinom&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/msakinom/github-readme-stats)![Github Trophy](https://github-profile-trophy.vercel.app/?username=msakinom&theme=discord)
-
-## A random joke
-![Jokes Card](https://readme-jokes.vercel.app/api)
