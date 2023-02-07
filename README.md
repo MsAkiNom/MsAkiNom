@@ -34,7 +34,8 @@
 ![VueJS](https://img.shields.io/badge/Framework-Vue.JS-informational?style=flat&logo=Vue.JS&logoColor=white&color=3AA148)
 ![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GnuBash&logoColor=white&color=4EAA25)
 ![OS](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=ArchLinux&logoColor=1793D1&color=1793D1)
-![IDE](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=2bbc8a)
+![IDE](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=2BBC8A)
+![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=42ADF5)
 ![Atom](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&logoColor=white&color=2bbc8a)
 ![VIM](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=VIM&logoColor=019733&color=019733)
 ![Postgres](https://img.shields.io/badge/Tool-Postgres-informational?style=flat&logo=Postgresql&logoColor=white&color=4169E1)
@@ -45,6 +46,6 @@
 ![Git](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=Git&logoColor=F05032&color=F05032)
 ![Gitlab](https://img.shields.io/badge/CI/CD-Gitlab-informational?style=flat&logo=Gitlab&logoColor=white&color=FCA121)
 ![Blender](https://img.shields.io/badge/Tool-Blender-informational?style=flat&logo=Blender&logoColor=white&color=F57231)
-![AutoCAD](https://img.shields.io/badge/Tool-AutoCAD-informational?style=flat&logo=AutoCAD&logoColor=white&color=F53731)
+![AutoCAD](https://img.shields.io/badge/Tool-AutoCAD-informational?style=flat&logo=AutoCAD&logoColor=white&color=E35252)
 ![AndroidStudio](https://img.shields.io/badge/Tool-AndroidStudio-informational?style=flat&logo=AndroidStudio&logoColor=white&color=44C776)
 
