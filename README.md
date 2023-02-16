@@ -28,6 +28,7 @@
 ![C++](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=Cpp&logoColor=white&color=3886AB)
 ![PHP](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=PHP&logoColor=white&color=3776AB)
 ![VueJS](https://img.shields.io/badge/Framework-Vue.JS-informational?style=flat&logo=Vue.JS&logoColor=white&color=3AA148)
+![Elixir](https://img.shields.io/badge/Language-Elixir-informational?style=flat&logo=Elixir&logoColor=white&color=741FB5)
 ![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GnuBash&logoColor=white&color=4EAA25)
 ![OS](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=ArchLinux&logoColor=1793D1&color=1793D1)
 ![IDE](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=2BBC8A)
