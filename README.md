@@ -16,8 +16,8 @@
 
 <div align="center">
 <!--   <img src="http://github-readme-streak-stats.herokuapp.com?user=msakinom&show_icons=true&theme=onedark_duo&border=E9EBE5&bg_color=00000000&text_color=3498db"> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=msakinom&count_private=true&show_icons=true&theme=radical&bg_color=00000000&text_color=3498db">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msakinom&langs_count=8&layout=compact&theme=vision-friendly-dark&bg_color=00000000&text_color=3498db">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=msakinom&count_private=true&show_icons=true&theme=radical&bg_color=00000000&text_color=3498db">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msakinom&langs_count=8&layout=compact&theme=vision-friendly-dark&bg_color=00000000&text_color=3498db"> -->
 </div>
 
 ## ‍💻 Technologies
