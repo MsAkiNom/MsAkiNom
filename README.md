@@ -2,14 +2,14 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="25%" height="25%"/>
-  <div id="badges">
+<!--   <div id="badges">
     <a href="https://msakinom.medium.com">
       <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
     <a href="https://twitter.com/msakin0m">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
- </div>
+ </div> -->
 </div>
 
 ## 📈 My Stats
